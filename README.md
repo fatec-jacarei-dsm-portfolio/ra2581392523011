@@ -5,11 +5,11 @@
 ### Turma: 2o. Semestre de 2026
 
 
-## 🌐 Portfólio Online e Vieo de Apresentação
+## 🌐 Portfólio Online e Video de Apresentação
 
 👉 [Acessar Portfólio](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392523011/)
 
-👉 [Acessar Portfólio](https://youtu.be/y1TKDfLL1c0)
+👉 [Acessar Video do Portfólio](https://youtu.be/y1TKDfLL1c0)
 
 
 
