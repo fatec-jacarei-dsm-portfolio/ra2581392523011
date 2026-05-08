@@ -2,7 +2,7 @@
 
 ### Aluno: Ronaldo de Avila Ribeiro Júnior
 ### Curso: Desenvolvimento de Software Multiplataforma
-### Turma: 2o. Semestre de 2025
+### Turma: 2º Semestre de 2025
 
 
 ## 🌐 Portfólio Online e Video de Apresentação
