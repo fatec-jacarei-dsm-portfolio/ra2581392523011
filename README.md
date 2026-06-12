@@ -1,8 +1,8 @@
 # Portfólio de Projetos - Fatec Jacareí
 
-**Aluno:** Ronaldo de Avila Ribeiro Júnior
-**Curso:** Desenvolvimento de Software Multiplataforma
-**Turma:** 2º Semestre de 2025
+- **Aluno:** Ronaldo de Avila Ribeiro Júnior
+- **Curso:** Desenvolvimento de Software Multiplataforma
+- **Turma:** 2º Semestre de 2025
 
 ---
 
@@ -14,6 +14,6 @@
 
 **Vídeos de Apresentação**
 
-🎤 2DSM - [Vídeo](https://youtu.be/y1TKDfLL1c0)
-🎤 4DSM - [Vídeo](LINK_VIDEO_4DSM)  
-🎤 6DSM - [Vídeo](LINK_VIDEO_6DSM)
+- 🎤 2DSM - [Vídeo](https://youtu.be/y1TKDfLL1c0)
+- 🎤 4DSM - [Vídeo](LINK_VIDEO_4DSM)  
+- 🎤 6DSM - [Vídeo](LINK_VIDEO_6DSM)
