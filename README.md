@@ -4,6 +4,7 @@
 ### Curso: Desenvolvimento de Software Multiplataforma
 ### Turma: 2º Semestre de 2025
 
+---
 
 **Portfólio Online**
 
