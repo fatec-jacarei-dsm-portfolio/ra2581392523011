@@ -5,12 +5,14 @@
 ### Turma: 2º Semestre de 2025
 
 
-## 🌐 Portfólio Online e Video de Apresentação
+**Portfólio Online**
 
-👉 [Acessar Portfólio](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392523011/)
+🔗 [Acesse o Portfólio](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392523011/)
 
-👉 [Video do Portfólio](https://youtu.be/y1TKDfLL1c0)
+---
 
+**Vídeos de Apresentação**
 
-
-
+🎤 2DSM - [Vídeo](https://youtu.be/y1TKDfLL1c0)
+🎤 4DSM - [Vídeo](LINK_VIDEO_4DSM)  
+🎤 6DSM - [Vídeo](LINK_VIDEO_6DSM)
